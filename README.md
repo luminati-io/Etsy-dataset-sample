@@ -52,14 +52,14 @@ Data enrichment available as an addition to the data points extracted: <b>Based 
 
 <h2>What are the Etsy products datasets use cases?</h2>
 
-<h3>1. Pricing Optimization</h3>
-Develop dynamic pricing strategies by analyzing comparable fashion items and categories within the Etsy dataset to uncover competitive pricing opportunities.
+<h3>1. Market Analysis</h3>
+Leverage an Etsy dataset to analyze customer demographics, purchase patterns, product preferences, reviews, and more. By understanding target market satisfaction and preferences, you can adjust your marketing and sales strategies accordingly.
 
-<h3>2. Product Inventory</h3>
-Identify inventory shortages and detect growing demand for specific fashion items, uncovering trends that appeal to consumers using the Etsy dataset.
+<h3>2. Pricing Strategy</h3>
+Set the optimal price for your products by analyzing competitor pricing on similar items. Keep your pricing competitive and make adjustments as needed to maximize sales and profits.
 
-<h3>3. Market Strategy</h3>
-Leverage the Etsy dataset to analyze market trends and consumer preferences, driving more informed strategic decisions in the fashion industry.
+<h3>3. Product Trends</h3>
+Analyze the popularity of products and categories, along with the performance of specific items over time. Use this data to track sales trends and inventory levels, enabling informed decisions for restocking and production planning.
 
 <h2>Free access to web scraping tools and datasets for academic researchers and NGOs</h2>
 
